@@ -1,0 +1,20 @@
+h1{
+    color: black;
+    font-size: 25px;
+    font-family: Roboto,sans-serif;
+    text-align: center;
+    margin: 20px 0px;
+}
+.tareas-lista-princiapl{
+    width: 500px;
+    min-height: 500px;
+    background-color: #d0d0d5;
+    padding: 25px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 25px;
+    box-shadow: -2px 5px 10px 10px rgb(186, 205, 206);
+}
+.tareas-lista-contenedor{
+    justify-content: center;
+}
